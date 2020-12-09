@@ -11,7 +11,7 @@ Accel-ppp support next features for control daemon and sessions:
 	
 	* ``RADIUS COA``
 	
-Common available commands for ``accel-cmd`` and ``telnet``. Also possible show this help message with one of commands  ``accel-cmd help`` and ``telnet 127.0.0.1 -p 2000`` then run ``help``.
+Common available commands for ``accel-cmd`` and ``telnet``. Also possible show this help message with one of commands  ``accel-cmd help`` and ``telnet 127.0.0.1  2000`` then run ``help``.
 
 .. code-block:: sh
 
